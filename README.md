@@ -10,7 +10,8 @@ This project uses Pandas library to clean and present data used to analyze stand
 
 - To clean the data I checked for missing values and duplicates and deleted those rows.
 ![NAN Values](https://user-images.githubusercontent.com/116690861/203816057-054d7bbc-4232-4ac7-98e7-e81cbc75c67d.png)
-![Duplicates](https://user-images.githubusercontent.com/116690861/203816329-7ff2898d-96d6-43a8-942b-599bd30bcbf7.png)
+
+  ![Duplicates](https://user-images.githubusercontent.com/116690861/203816329-7ff2898d-96d6-43a8-942b-599bd30bcbf7.png)
 
 - Then observed the statistics for the data set as a whole.
 ![Summary stats](https://user-images.githubusercontent.com/116690861/203816908-b8457473-bca2-4a6b-9d47-67817e55fa6f.png)
