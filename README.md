@@ -2,7 +2,7 @@
 - The purpose of this project is to analyze data on district standarized test results
 
 ## Overview
-This project uses Pandas library to clean and present data used to analyze standarized tests results. The data was arranged and sorted in differenct ways to observe possible trends. In this project the focus was on math and reading scores and the type of school.
+This project uses Pandas library to clean and present data used to analyze standarized tests results. The data was arranged and sorted in different ways to observe possible trends. In this project the focus was on math and reading scores and the type of school.
 
 ## Results
 - First the data was uploaded to Jupyter Notebook
@@ -16,8 +16,8 @@ This project uses Pandas library to clean and present data used to analyze stand
 - Then observed the statistics for the data set as a whole.
 ![Summary stats](https://user-images.githubusercontent.com/116690861/203816908-b8457473-bca2-4a6b-9d47-67817e55fa6f.png)
 
-- Compared the different school types but looking at the school budgets and the average scores for each grade.
+- Compared the different school types by looking at the school budgets and the average scores for each grade.
 ![School Stats](https://user-images.githubusercontent.com/116690861/203818372-19487e60-da24-4230-a9a6-ccc8019d13da.png)
 
 ## Summary
-This data shows some intersting trends in the results of standarized tests.  Looking at the average reading and math scores we see that the reading scores are usually higher than the math scores. We can see the difference between average reading scores and average math scores is greater in the 11th grade for both charter and public schools. There is not a great difference between the scores of public schools and charter schools even though the public schools have a bigger budget. It would be interesting to observe if the number of students in the school affects the average scores for the schools and see if schools with a lower amount of students score higher because they can focus more on individual students.
+This data shows some interesting trends in the results of standarized tests.  Looking at the average reading and math scores we see that the reading scores are usually higher than the math scores. We can see the difference between average reading scores and average math scores is greater in the 11th grade for both charter and public schools. There is not a great difference between the scores of public schools and charter schools even though the public schools have a bigger budget. It would be interesting to observe if the number of students in the school affects the average scores for the schools and see if schools with a lower amount of students score higher because they can focus more on individual students.
